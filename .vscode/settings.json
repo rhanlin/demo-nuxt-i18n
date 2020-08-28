@@ -1,0 +1,20 @@
+{
+  "files.associations": {
+    "*.scss": "scss",
+    "*.html": "vue-html"
+  },
+  "editor.tabSize": 2,
+  "editor.formatOnSave": false,
+  "editor.fontLigatures": true,
+  "editor.acceptSuggestionOnCommitCharacter": false,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "workbench.editor.closeEmptyGroups": false,
+  "prettier.singleQuote": true,
+  "prettier.tabWidth": 2,
+  "liveServer.settings.donotShowInfoMsg": true,
+  "liveServer.settings.donotVerifyTags": true,
+  "vetur.validation.template": false,
+  "git.confirmSync": false
+}
