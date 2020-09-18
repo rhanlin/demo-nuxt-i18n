@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{206:function(e){e.exports=JSON.parse('{"article.title":"Article page","article.subtitle":"This is article subtitle"}')}}]);

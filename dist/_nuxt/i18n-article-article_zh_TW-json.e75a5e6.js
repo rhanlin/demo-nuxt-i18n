@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{207:function(e){e.exports=JSON.parse('{"article.title":"文章頁","article.subtitle":"這是文章副標題"}')}}]);
