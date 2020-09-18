@@ -21,6 +21,10 @@ export default {
     ],
     link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }],
   },
+  target: 'static',
+  router: {
+    base: process.env.NODE_ENV === 'production' ? '/nuxt-i18n-demo/' : '',
+  },
   /*
    ** Global CSS
    */
